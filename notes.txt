@@ -1,0 +1,14 @@
+CSS stands for cascading style sheets.
+    Can be applied in 3 ways
+        1. Inline <p style=" color:red;"> text </p>
+        2. Embedded
+        <head>
+            <style> 
+                p {color:red}
+            </style>
+         </head>   
+        3. Linked 
+            p {color:red;}  
+
+Images for websites can be JPG (photographic images with a lot of color), GIF or PNG(similar to JPG) - these are known as raster images.
+Can also be an SVG, which is made up of XML code. This cannot be manipulated in photoshop.
